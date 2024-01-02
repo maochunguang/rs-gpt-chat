@@ -2,7 +2,7 @@
 
 ## 谷歌的gemini
 
-最近谷歌的gemini非常火爆，据说已经超越了chatgpt4.0，我最近也经常使用Gemini，今天就用一个命令行工具，让大家玩一下谷歌的Gemini。
+最近谷歌的gemini非常火爆，据说已经超越了chatgpt4.0，我最近也经常使用Gemini，今天就用一个命令行工具，让大家玩一下谷歌的Gemini。完整的代码参考：[rs-gpt-chat (github.com)](https://github.com/maochunguang/rs-gpt-chat)
 
 
 
